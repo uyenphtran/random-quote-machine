@@ -12,5 +12,7 @@ or tweet the quote to Twitter
 Credits:
 
 freeCodeCamp project outline (https://www.freecodecamp.org/learn/front-end-development-libraries/front-end-development-libraries-projects/build-a-random-quote-machine)
+
 Quotes (https://www.scarymommy.com/how-i-met-your-mother-quotes)
+
 Pastel color palette (https://wondernote.org/color-palettes-for-web-digital-blog-graphic-design-with-hexadecimal-codes/)
